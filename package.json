@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "test-expo-30143",
+  "version": "1.0.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
