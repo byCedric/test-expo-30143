@@ -1,5 +1,10 @@
 {
   "name": "test-pkg",
   "version": "0.0.0",
-  "main": "index.js"
+  "main": "index.js",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native": "^0.73.8"
+  }
 }
